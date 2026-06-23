@@ -27,5 +27,5 @@ Este proyecto está bajo la Licencia MIT.
 Esta aplicación es solo un reproductor de listas M3U/M3U8. No proporciona ningún contenido y los usuarios son responsables del contenido que reproducen.
 
 ## Desarrollado por
-Kazar
-Pagina de prueba y de descarga http://kazar1965.mygamesonline.org/
+Kazar1
+Pagina http://kazar1965.mygamesonline.org/
